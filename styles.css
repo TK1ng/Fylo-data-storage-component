@@ -1,0 +1,30 @@
+body {
+    background-color: #0c132c;
+    color: white;
+    font-family:'Baloo Tamma 2', cursive;
+    
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.remaining-gb {
+    background-color: white;
+    color: #000;
+    padding: 1rem;
+    border-radius: .5rem;
+    margin: 2rem 0;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
