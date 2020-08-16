@@ -5,7 +5,7 @@ body {
     color: rgba(255, 255, 255, 0.904);
     font-family:'Baloo Tamma 2', cursive;    
     background-color: #0c132c;
-    background-image: url(/images/bg-mobile.png);
+    background-image: url("/images/bg-mobile.png");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -135,7 +135,7 @@ span {
 
   @media only screen and (min-width: 700px) {
     body {
-        background-image: url(/images/bg-desktop.png);
+        background-image: url("/images/bg-desktop.png");
         background-position: center bottom;
         transition: ease-in-out .3s;
     } 
