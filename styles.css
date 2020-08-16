@@ -48,6 +48,8 @@ p {
     display: inline-block;
     background-color: #0c132c;
     padding: .6rem;
+    width: 1.5rem;
+    height: 1.5rem;
     border-radius: .5rem;
     margin-right: 1rem;
 }
